@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pritom-hazarika
+- 👋 Hi, I’m ##Pritom Hazarika
 - 👀 I’m interested in Python and Data Science Projects
 - 🌱 I’m currently learning PySpark
 - 💞️ I’m looking to collaborate on Machine Learning Projects
