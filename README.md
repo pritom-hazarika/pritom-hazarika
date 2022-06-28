@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pritom Hazarika
-- 👀 I’m interested in Python and Data Science Projects
-- 🌱 I’m currently learning PySpark
+- 👀 I’m interested in Python | Data Science | Data Engineering Projects
+- 🌱 I’m currently learning PySpark | Azure 
 - 💞️ I’m looking to collaborate on Machine Learning Projects
 - 📫 Reach me hazarikapritom@yahoo.com
 
